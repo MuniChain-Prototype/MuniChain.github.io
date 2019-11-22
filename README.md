@@ -1,2 +1,1 @@
-# munichain
-MuniChain
+# MuniChain.github.io
